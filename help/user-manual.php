@@ -1,0 +1,1 @@
+ <embed src="path/to/your/file.pdf" width="100%" height="800px" type="application/pdf">
