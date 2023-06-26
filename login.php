@@ -4,6 +4,7 @@
 		header("Location: http://{$_SERVER['HTTP_HOST']}/catafa/index.php");
 	}
  ?>
+ 
 <!DOCTYPE html>
 <html>
 <head>
